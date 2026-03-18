@@ -57,7 +57,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Patches\aimeeBuffModPlugin.cs" />
+    <Compile Include="Patches\StormsRoboticsPlugin.cs" />
     <Compile Include="Patches\RobotMiningPatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
